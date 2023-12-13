@@ -1,0 +1,1 @@
+untuk data train dan val saya memakai 90% train dan 10% val
